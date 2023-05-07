@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Find me on NPM at [desmondhiew](https://www.npmjs.com/~desmondhiew)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desmondhiew00&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desmondhiew00&theme=dark)
