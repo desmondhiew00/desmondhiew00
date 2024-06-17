@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=desmondhiew&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 
-[![Test](https://img.shields.io/static/v1?label=web&message=desmondhiew&color=blue&style=for-the-badge)](https://desmondhiew.cc)
+[![Test](https://img.shields.io/static/v1?label=web&message=desmondhiew&color=blue&style=for-the-badge)](https://desmondhiew.com)
 [![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~desmondhiew)
 
 
